@@ -1,4 +1,4 @@
-# magic8ball
+# micard
 
 A new Flutter project.
 
